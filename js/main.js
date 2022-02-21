@@ -1,3 +1,5 @@
+console.log('ehi togli il tuo naso dal mio codice');
+
 const firstName = prompt( "Inserisci il tuo nome please");
 const lastName = prompt( " Ed ora il cognome grazie");
 const age = prompt("Quanti anni hai?");
